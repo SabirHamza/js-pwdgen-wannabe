@@ -12,6 +12,7 @@ console.log(username);
 console.log(usersecondname);
 console.log(preferitcolor);
 
+//GENERO LA PASSWORD
 let password =  `${username}${usersecondname}${preferitcolor}23`
 
 //PROVE CONSOLE LOG
